@@ -41,9 +41,12 @@ public partial class View_Login : System.Web.UI.Page
         switch (MenuPrincipal.SelectedValue)
         {
             case "Inicio":
-                Response.Redirect("PaginaPrincipal.aspx");
+                Response.Redirect("inicio.aspx");
                 break;
-            case "Preguntas/Respuestas":
+            case "Moto Eventos":
+
+                break;
+            case "Moto Preguntas":
 
                 break;
             case "Museo":

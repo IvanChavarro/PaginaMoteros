@@ -1,0 +1,15 @@
+﻿.Bannerpronto {
+    margin-top:30px;
+    width: 90%;
+    height: 80%;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 50px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(255,255,255,.7);
+}
+.Bannerpronto img {
+    width: 100%;
+    height: 500px;
+}
